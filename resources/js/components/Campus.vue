@@ -13,8 +13,7 @@
               <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Campus</h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Main Campus, Uttara</h1>
               <p class="leading-relaxed mb-3">Our main campus in Uttara is away from the noise and pollution of the main city.
-                The campus is built on a two acre site which accommodates school and college level students (playgroup to class 12).
-                The campus is green, clean, organised and provides many facilities including:</p>
+                The campus is built on a two acre site </p>
               <div class="flex items-center flex-wrap ">
                 <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">Learn More
                   <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -44,8 +43,7 @@
               <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Campus</h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Mohammadpur Campus</h1>
               <p class="leading-relaxed mb-3">Our main campus in Uttara is away from the noise and pollution of the main city.
-                The campus is built on a two acre site which accommodates school and college level students (playgroup to class 12).
-                The campus is green, clean, organised and provides many facilities including:</p>
+                The campus is built on a two acre site</p>
               <div class="flex items-center flex-wrap ">
                 <a class="text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0">See Details
                   <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
