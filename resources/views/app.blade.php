@@ -9,7 +9,7 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-<div id="app" class="p-2 bg-[url('assets/frontend/bg-cover.jpg')] bg-fixed bg-opacity-50">
+<div id="app" class="p-2 bg-[url('assets/frontend/bg-cover-01.jpg')] bg-fixed bg-blend-overlay">
 
 </div>
 

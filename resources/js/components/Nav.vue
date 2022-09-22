@@ -11,8 +11,10 @@
   </span>
   <ul class="md:flex md:items-center md:px-0 px-10 md:py:0 py:10 md:static absolute bg-primary  rounded
              top-14 duration-700 ease-in" :class="[open ? 'left-0':'left-[-100%]']">
-    <li class="md:mx-4 md:my-0 my-6" v-for="Link in Links">
-      <a :href="Link.link" class="text-xl text-white hover:text-secondary duration-200">{{ Link.name }}</a>
+    <li class="md:mx-4 md:my-0 my-6" v-for=" item of list" :key="item">
+      <router-link :to="item.path" >
+        {{item.text}}
+      </router-link>
     </li>
     <Button class="mb-2">
       Get Admission
@@ -28,18 +30,30 @@ export default {
   components: {Button},
   setup(){
     let open= ref(false)
-    let Links = [
-      {name:"Home" ,link:"#"},
-      {name:"Academy" ,link:"#"},
-      {name:"Classes" ,link:"#"},
-      {name:"Course" ,link:"#"},
-    ]
     function MenuOpen(){
       open.value=!open.value
     }
-    return {Links,open,MenuOpen}
+    return {open,MenuOpen}
   }
 };
+</script>
+<script setup>
+
+const list =[
+  {
+    text:"Home",
+    path:"/"
+  },
+  {
+    text:"About Us",
+    path:"/aboutus"
+  }
+  ,{
+    text:"Contact Us",
+    path:"/contactus"
+  },
+]
+
 </script>
 <style scoped>
 

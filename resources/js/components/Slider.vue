@@ -22,7 +22,7 @@
           <img alt="..."
                class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" src="assets/frontend/sliders/AFSC-03.jpg">
         </div>
-        <!-- Slider indicators -->
+        <!-- slider indicators -->
         <div class="absolute z-30 flex space-x-3 -translate-x-1/2 bottom-5 left-1/2">
           <button aria-current="true" aria-label="Slide 1" class="w-3 h-3 rounded-full bg-white dark:bg-gray-800"
                   data-carousel-slide-to="0" type="button"></button>
@@ -39,7 +39,7 @@
                   aria-label="Slide 5"
                   class="w-3 h-3 rounded-full bg-white/50 dark:bg-gray-800/50 hover:bg-white dark:hover:bg-gray-800" data-carousel-slide-to="4" type="button"></button>
         </div>
-        <!-- Slider controls -->
+        <!-- slider controls -->
         <button class="absolute top-0 left-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none"
                 data-carousel-prev=""
                 type="button">
