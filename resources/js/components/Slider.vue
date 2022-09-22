@@ -9,18 +9,18 @@
         <div class="duration-700 ease-in-out absolute inset-0 transition-all transform translate-x-0 z-20"
              data-carousel-item="active">
           <img alt="..."
-               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" src="assets/frontend/sliders/AFSC-01.jpg">
+               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" src="@/assets/frontend/sliders/AFSC-01.jpg">
         </div>
         <!-- Item 2 -->
         <div class="duration-700 ease-in-out absolute inset-0 transition-all transform translate-x-full z-10"
              data-carousel-item="">
           <img alt="..."
-               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" src="assets/frontend/sliders/AFSC-02.jpg">
+               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" src="@/assets/frontend/sliders/AFSC-02.jpg">
         </div>
         <!-- Item 3 -->
         <div class="hidden duration-700 ease-in-out absolute inset-0 transition-all transform" data-carousel-item="">
           <img alt="..."
-               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" src="assets/frontend/sliders/AFSC-03.jpg">
+               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" src="@/assets/frontend/sliders/AFSC-03.jpg">
         </div>
         <!-- slider indicators -->
         <div class="absolute z-30 flex space-x-3 -translate-x-1/2 bottom-5 left-1/2">
