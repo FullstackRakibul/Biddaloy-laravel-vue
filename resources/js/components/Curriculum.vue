@@ -14,7 +14,7 @@
         </a>
       </div>
       <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-        <img src="assets/frontend/curriculum.gif" alt="mockup">
+        <img src="@/assets/frontend/curriculum.gif" alt="mockup">
       </div>
     </div>
   </section>

@@ -9,7 +9,7 @@
         <p class="text-secondary text-justify font-sm px-6 pt-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, </p>
       </div>
       <div class="flex-1 flex justify-center items-center">
-        <img class="h-64" src="assets/frontend/gif/ctp-01.gif">
+        <img class="h-64" src="@/assets/frontend/gif/ctp-01.gif">
       </div>
     </div>
 
@@ -18,7 +18,7 @@
     </div>
     <div class="container flex justify-center items-center mx-auto bg-white m-3 p-3 animate__animated animate__rubberBand">
       <div class="w-2/5 flex-1">
-        <img class="h-64" src="assets/frontend/gif/ctp-02.gif">
+        <img class="h-64" src="@/assets/frontend/gif/ctp-02.gif">
       </div>
       <div class=" flex-1 justify-center items-center">
        <h1 class="text-xl font-semibold">The moral purpose of Akij foundation school and college (AFSC)

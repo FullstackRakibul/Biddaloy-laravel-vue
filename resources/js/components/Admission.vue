@@ -12,7 +12,7 @@
         </div>
       </div>
       <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-        <img class="object-center object-center rounded h-96 w-full" alt="hero" src="assets/frontend/Admission.jpg">
+        <img class="object-center object-center rounded h-96 w-full" alt="hero" src="@/assets/frontend/Admission.jpg">
       </div>
     </div>
   </section>
@@ -25,7 +25,7 @@
 
 <!--    <div class="container px-5 py-10 mx-auto flex flex-wrap">-->
 <!--      <div class="lg:w-1/2 w-full lg:mb-0 rounded-lg overflow-hidden">-->
-<!--        <img alt="feature" class="object-cover object-center h-[calc(100vh)] w-full" src="assets/frontend/Admission.jpg">-->
+<!--        <img alt="feature" class="object-cover object-center h-[calc(100vh)] w-full" src="@/assets/frontend/Admission.jpg">-->
 <!--      </div>-->
 
 <!--      <div class="flex flex-col flex-wrap lg:py-6 lg:w-1/2 lg:pl-12 lg:text-left text-center bg-white">-->

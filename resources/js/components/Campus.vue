@@ -8,7 +8,7 @@
       <div class="flex flex-wrap -m-4">
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden bg-white rounded hover:shadow-lg p-1">
-            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="assets/frontend/campus/campus-01.jpg" alt="blog">
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="@/assets/frontend/campus/campus-01.jpg" alt="blog">
             <div class="p-6">
               <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Campus</h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Main Campus, Uttara</h1>
@@ -38,7 +38,7 @@
         </div>
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden bg-white rounded hover:shadow-lg p-1">
-            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="assets/frontend/campus/campus-02.jpg" alt="blog">
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="@/assets/frontend/campus/campus-02.jpg" alt="blog">
             <div class="p-6">
               <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Campus</h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Mohammadpur Campus</h1>
@@ -68,7 +68,7 @@
         </div>
         <div class="p-4 md:w-1/3">
           <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden bg-white rounded hover:shadow-lg p-1">
-            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="assets/frontend/campus/campus-03.jpg" alt="blog">
+            <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="@/assets/frontend/campus/campus-03.jpg" alt="blog">
             <div class="p-6">
               <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">Campus</h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Manikganj Campus</h1>

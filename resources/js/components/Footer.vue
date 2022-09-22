@@ -5,7 +5,7 @@
     <div class="md:flex md:justify-between">
       <div class="mb-6 md:mb-0">
         <a href="https://flowbite.com/" class="flex items-center">
-          <img src="assets/frontend/biddaloy-logo.png" class="mr-3 h-24" alt="FlowBite Logo">
+          <img src="@/assets/frontend/biddaloy-logo.png" class="mr-3 h-24" alt="FlowBite Logo">
           <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"></span>
         </a>
       </div>
@@ -14,10 +14,10 @@
           <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
           <ul class="text-gray-600 dark:text-gray-400">
             <li class="mb-4">
-              <a href="/" class="hover:underline">Flowbite</a>
+              <a href="/" class="hover:underline">Creative Tech park</a>
             </li>
             <li>
-              <a href="/" class="hover:underline">Tailwind CSS</a>
+              <a href="/" class="hover:underline">AFSC</a>
             </li>
           </ul>
         </div>
