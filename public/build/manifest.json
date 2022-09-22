@@ -1,0 +1,111 @@
+{
+  "public/assets/frontend/biddaloy-logo.png": {
+    "file": "assets/biddaloy-logo.d3da1fce.png",
+    "src": "public/assets/frontend/biddaloy-logo.png"
+  },
+  "public/assets/frontend/gif/ctp-02.gif": {
+    "file": "assets/ctp-02.e61b172c.gif",
+    "src": "public/assets/frontend/gif/ctp-02.gif"
+  },
+  "public/assets/frontend/gif/ctp-01.gif": {
+    "file": "assets/ctp-01.96a4e900.gif",
+    "src": "public/assets/frontend/gif/ctp-01.gif"
+  },
+  "public/assets/frontend/curriculum.gif": {
+    "file": "assets/curriculum.dc7bf5cf.gif",
+    "src": "public/assets/frontend/curriculum.gif"
+  },
+  "public/assets/frontend/Admission.jpg": {
+    "file": "assets/Admission.59be40c5.jpg",
+    "src": "public/assets/frontend/Admission.jpg"
+  },
+  "public/assets/frontend/sliders/AFSC-01.jpg": {
+    "file": "assets/AFSC-01.f89e0175.jpg",
+    "src": "public/assets/frontend/sliders/AFSC-01.jpg"
+  },
+  "public/assets/frontend/sliders/AFSC-03.jpg": {
+    "file": "assets/AFSC-03.d6c99b94.jpg",
+    "src": "public/assets/frontend/sliders/AFSC-03.jpg"
+  },
+  "public/assets/frontend/campus/campus-02.jpg": {
+    "file": "assets/campus-02.dfdc43fe.jpg",
+    "src": "public/assets/frontend/campus/campus-02.jpg"
+  },
+  "public/assets/frontend/campus/campus-03.jpg": {
+    "file": "assets/campus-03.c8e34e09.jpg",
+    "src": "public/assets/frontend/campus/campus-03.jpg"
+  },
+  "public/assets/frontend/campus/campus-01.jpg": {
+    "file": "assets/campus-01.96cd3389.jpg",
+    "src": "public/assets/frontend/campus/campus-01.jpg"
+  },
+  "public/assets/frontend/sliders/AFSC-02.jpg": {
+    "file": "assets/AFSC-02.fbbd6766.jpg",
+    "src": "public/assets/frontend/sliders/AFSC-02.jpg"
+  },
+  "public/assets/frontend/testimonial1.jpg": {
+    "file": "assets/testimonial1.6c9962c2.jpg",
+    "src": "public/assets/frontend/testimonial1.jpg"
+  },
+  "public/assets/frontend/events/Program1.jpg": {
+    "file": "assets/Program1.0854f99c.jpg",
+    "src": "public/assets/frontend/events/Program1.jpg"
+  },
+  "public/assets/frontend/events/Program2.jpg": {
+    "file": "assets/Program2.dbff7011.jpg",
+    "src": "public/assets/frontend/events/Program2.jpg"
+  },
+  "public/assets/frontend/events/Program3.jpg": {
+    "file": "assets/Program3.ec90afbe.jpg",
+    "src": "public/assets/frontend/events/Program3.jpg"
+  },
+  "public/assets/frontend/events/Program4.jpg": {
+    "file": "assets/Program4.ec670f8b.jpg",
+    "src": "public/assets/frontend/events/Program4.jpg"
+  },
+  "public/assets/frontend/events/Program5.jpg": {
+    "file": "assets/Program5.a1e0bb9d.jpg",
+    "src": "public/assets/frontend/events/Program5.jpg"
+  },
+  "public/assets/frontend/events/Program6.jpg": {
+    "file": "assets/Program6.13b756a8.jpg",
+    "src": "public/assets/frontend/events/Program6.jpg"
+  },
+  "public/assets/frontend/testimonial2.jpg": {
+    "file": "assets/testimonial2.8fb38414.jpg",
+    "src": "public/assets/frontend/testimonial2.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.bacecee6.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app.12e13001.css"
+    ],
+    "assets": [
+      "assets/biddaloy-logo.d3da1fce.png",
+      "assets/curriculum.dc7bf5cf.gif",
+      "assets/AFSC-01.f89e0175.jpg",
+      "assets/AFSC-02.fbbd6766.jpg",
+      "assets/AFSC-03.d6c99b94.jpg",
+      "assets/campus-01.96cd3389.jpg",
+      "assets/campus-02.dfdc43fe.jpg",
+      "assets/campus-03.c8e34e09.jpg",
+      "assets/Admission.59be40c5.jpg",
+      "assets/Program1.0854f99c.jpg",
+      "assets/Program2.dbff7011.jpg",
+      "assets/Program3.ec90afbe.jpg",
+      "assets/Program4.ec670f8b.jpg",
+      "assets/Program5.a1e0bb9d.jpg",
+      "assets/Program6.13b756a8.jpg",
+      "assets/testimonial1.6c9962c2.jpg",
+      "assets/testimonial2.8fb38414.jpg",
+      "assets/ctp-01.96a4e900.gif",
+      "assets/ctp-02.e61b172c.gif"
+    ]
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.12e13001.css",
+    "src": "resources/js/app.css"
+  }
+}
