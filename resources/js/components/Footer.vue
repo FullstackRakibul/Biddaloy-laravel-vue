@@ -5,7 +5,7 @@
     <div class="md:flex md:justify-between">
       <div class="mb-6 md:mb-0">
         <a href="https://flowbite.com/" class="flex items-center">
-          <img src="assets/frontend/biddaloy-logo.png" class="mr-3 h-24" alt="FlowBite Logo">
+          <img src="@/assets/frontend/biddaloy-logo.png" class="mr-3 h-24" alt="FlowBite Logo">
           <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"></span>
         </a>
       </div>
